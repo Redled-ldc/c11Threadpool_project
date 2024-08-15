@@ -1,1 +1,2 @@
 这是一个基于C++11的线程池项目，包括catched模式和fixed的模式
+catched模式为固定线程数，fixed支持动态扩充
